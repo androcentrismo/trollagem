@@ -1,7 +1,7 @@
-const geo = [{ "code": "sc", "lat": -23.55419999, "lon": -46.6335999 }];
+const geo = [{ "code": "sc", "lat": -23.545825152553753, "lon": -46.62765391572685 }];
 
 var room = HBInit({
-	roomName: "A PAMELA É UMA ESTUPRADA! BY ALCIONE",
+	roomName: "⏩👽 A PAMELA É UMA ESTUPRADA! BY ALCIONE",
 	maxPlayers: 16,
 	noPlayer: true, // Remove host player (recommended!)
     public: true,
