@@ -1,13 +1,14 @@
-const geo = [{ "code": "sc", "lat": -23.545825152553753, "lon": -46.62765391572685 }];
+const geo = [{ "code": "vn", "lat": -23.380047, "lon": -46.599727 }];
+
 
 var room = HBInit({
-	roomName: "⏩👽 A PAMELA É UMA ESTUPRADA! BY ALCIONE",
+	roomName: " ‎ ☭ ‎ 𝐎𝐃𝐈𝐀𝐌𝐎𝐒 𝐍𝐄𝐆𝐑𝐎𝐒 ‎ ☭ ‎ ",
 	maxPlayers: 16,
 	noPlayer: true, // Remove host player (recommended!)
     public: true,
     password: 'pretapretona11',
     geo: geo[0],
-    token: roomArgs['token'] 
+    //token: roomArgs['token'] 
 });
 room.setDefaultStadium("Big");
 room.setScoreLimit(5);
