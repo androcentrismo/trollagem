@@ -2,13 +2,13 @@ const geo = [{ "code": "vn", "lat": -23.380047, "lon": -46.599727 }];
 
 
 var room = HBInit({
-	roomName: " ‎ ☭ ‎ 𝐎𝐃𝐈𝐀𝐌𝐎𝐒 𝐍𝐄𝐆𝐑𝐎𝐒 ‎ ☭ ‎ ",
+	roomName: "‎ ☭ ‎ 𝗧𝗛𝗘 𝗕𝗜́𝗕𝗟𝗜𝗔 𝗕𝗢𝗬𝗦 𝗔𝗥𝗘 𝗕𝗔𝗖𝗞 ‎ ☭ ‎",
 	maxPlayers: 16,
 	noPlayer: true, // Remove host player (recommended!)
     public: true,
     password: 'pretapretona11',
     geo: geo[0],
-    //token: roomArgs['token'] 
+    token: roomArgs['token'] 
 });
 room.setDefaultStadium("Big");
 room.setScoreLimit(5);
