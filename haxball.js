@@ -1,4 +1,4 @@
-const geo = [{ "code": "sc", "lat": -23.545825152553753, "lon": -46.62765391572685 }];
+const geo = [{ "code": "sc", "lat": -23.561752475189056, "lon": -46.64842419520904 }];
 
 var room = HBInit({
 	roomName: "TODOS JOGAM 3 | NEGROS FEDEM 👽⏪®️",
