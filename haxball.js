@@ -1,8 +1,7 @@
-const geo = [{ "code": "vn", "lat": -23.380047, "lon": -46.599727 }];
-
+const geo = [{ "code": "sc", "lat": -23.545825152553753, "lon": -46.62765391572685 }];
 
 var room = HBInit({
-	roomName: "‎ ☭ ‎ 𝗧𝗛𝗘 𝗕𝗜́𝗕𝗟𝗜𝗔 𝗕𝗢𝗬𝗦 𝗔𝗥𝗘 𝗕𝗔𝗖𝗞 ‎ ☭ ‎",
+	roomName: "TODOS JOGAM 3 | NEGROS FEDEM 👽⏪®️",
 	maxPlayers: 16,
 	noPlayer: true, // Remove host player (recommended!)
     public: true,
