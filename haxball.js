@@ -1,8 +1,8 @@
 const geo = [{ "code": "sc", "lat": -23.557523, "lon": -46.520183 }];
 
 var room = HBInit({
-	roomName: "⏩👽 TODOS JOGAM 4 | NEGROS FEDEM",
-	maxPlayers: 16,
+	roomName: "VOU AO MARANHÃO ESTUPRAR A PAMELA",
+	maxPlayers: 32,
 	noPlayer: true, // Remove host player (recommended!)
     public: true,
     password: 'pretapretona11',
