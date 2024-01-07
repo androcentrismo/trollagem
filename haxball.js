@@ -7,7 +7,7 @@ var room = HBInit({
     public: true,
     password: 'pretapretona11',
     geo: geo[0],
-    //token: roomArgs['token'] 
+    token: roomArgs['token'] 
 });
 room.setDefaultStadium("Big");
 room.setScoreLimit(5);
