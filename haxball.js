@@ -1,13 +1,13 @@
-const geo = [{ "code": "sc", "lat": -23.557523, "lon": -46.520183 }];
+const geo = [{ "code": "sc", "lat": -23.55419999, "lon": -46.6335999 }];
 
 var room = HBInit({
-	roomName: "VOU AO MARANHÃO ESTUPRAR A PAMELA",
+	roomName: "⏩👽 TODOS JOGAM 3 | NEGRO É MERDA",
 	maxPlayers: 32,
 	noPlayer: true, // Remove host player (recommended!)
     public: true,
     password: 'pretapretona11',
     geo: geo[0],
-    token: roomArgs['token'] 
+    //token: roomArgs['token'] 
 });
 room.setDefaultStadium("Big");
 room.setScoreLimit(5);
